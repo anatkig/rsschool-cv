@@ -11,7 +11,7 @@ _______________________________________
 
 ## IT Skills
 _______________________________________
-<p>I have tried myself in Java creating simple projects in NetBeans.</p>
+<p>I have tried myself in Java creating simple projects in NetBeans IDE.</p>
 <p>I have written several simple bots in JaveScript for Chrome which helped me promote myself in social networking sites as an English teacher.</p>
 <p>There are also a few little projects on automation of tests and students lists under my belt.</p>
 
