@@ -1,1 +1,1 @@
-https://anatkig.github.io/rsschool-cv/webdev
+https://anatkig.github.io/rsschool-cv/webdev/index.html
